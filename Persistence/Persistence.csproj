@@ -7,6 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Persistence\FileSystem\" />
+    <Folder Include="Persistence\Sql\" />
     <Folder Include="UnitTests\" />
   </ItemGroup>
 
